@@ -13,7 +13,7 @@ If this is your first pull request, please read this article: [How To Create a P
 ### Step 1
 
 Fork the repo by pressing the "Fork" button on the top right side of the
-repository and clone your forked repository.
+repository and clone your forked repository. You can also us the the git bash to do the following.
 
 ### Step 2
 
